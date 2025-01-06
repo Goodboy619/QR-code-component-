@@ -1,0 +1,35 @@
+body{
+    background-color: #d5e1ef;
+}    
+
+#container{
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    width: 290px;
+    height: 450px;
+    background-color: #ffffff;
+    padding: 16px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    font-family: Outfit;
+    font-weight: 400px, 70opx;
+}
+
+#container img{
+    height: 288px;
+    width: 288px;
+    border-radius: 10px;
+}
+
+#container h2{
+    text-align: center;
+    color: #1F314F;
+    font-size: 22px;
+}
+
+#container p{
+    text-align: center;
+    color: #68778d;
+    font-size: 15px;
+}
